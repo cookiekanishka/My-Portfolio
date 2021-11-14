@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+
+#apps{
+    background-color: pink;
+}
+
+#games{
+    background-color: lightskyblue;
+}
+
+#art{
+    background-color: lightgreen;
+}
+
+#Bots{
+    background-color: aquamarine;
+}
+
